@@ -1,4 +1,5 @@
 # ProductManagement
+A hybrid app developed at Android Studio. The app enables cost management.
 
 Technologies - HTML, CSS, Bootstrap, Js, WebView
 
