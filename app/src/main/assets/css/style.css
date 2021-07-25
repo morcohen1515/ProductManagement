@@ -1,0 +1,129 @@
+//login.html
+#login{
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+}
+.nav-link{
+    margin-left:20px;
+}
+#p{
+    text-align: center;
+    color:#111;
+    font-weight: 600;
+}
+#a{
+    text-decoration:none;
+    color: #6c5ce7;
+}
+.btn{
+    margin-top:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#name{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#password{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//signup.html
+#signup{
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+}
+#cpassword{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//addcostitem.html
+#addproduct{
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+}
+#category{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#price{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#description{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-button: 20px;
+}
+
+//getcostitems.html
+#divlistproup{
+    margin-left: 15px;
+    margin-right: 15PX;
+}
+#empty{
+    color:red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+#listitems{
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+}
+
+//getcostpermonth.html
+.form-group{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+#divbutton{
+    text-align: center;
+}
+#divtable{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+#listpermonth{
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+}
+
+//piechart.html
+body{
+    margin: 0;
+}
+.card{
+    margin-top: 20px;
+}
+#ExpensesByCategory{
+    margin-top: 10px;
+    width: 700px;
+    height: 2000px;
+}
+.scrollable{
+    height:1000px;
+    overflow:scroll;
+}
+
